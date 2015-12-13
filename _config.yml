@@ -1,0 +1,28 @@
+name: IcaroFerracini
+favicon: null
+layout_spectrum: 0.3816981508862227
+typography_spectrum: 0.7157859182916582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4545173035003245
+  lightness: 0.5256786502432078
+  saturation: 0.6084565522614866
+  rhythmicContrast: 0.24769532168284059
+purpose: []
