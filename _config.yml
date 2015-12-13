@@ -1,7 +1,7 @@
 name: IcaroFerracini
 favicon: null
-layout_spectrum: 0.3816981508862227
-typography_spectrum: 0.7157859182916582
+layout_spectrum: 0.1324
+typography_spectrum: 0.24137
 title: Icaro Ferracini
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.4545173035003245
-  lightness: 0.5256786502432078
-  saturation: 0.6084565522614866
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.3125
   rhythmicContrast: 0.24769532168284059
 purpose: []
