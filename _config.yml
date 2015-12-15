@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.1324
+layout_spectrum: 0
 favicon: null
 name: IcaroFerracini
 purpose: []
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.7851064
-  lightness: 0.1744681
-  saturation: 0.7574468
-  rhythmicContrast: 0.6851064
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.05531915
+  rhythmicContrast: 0.2978723
   brandColors:
-    - '#1F1516'
-    - '#309878'
-    - '#FFFDFF'
-    - '#BDB4BD'
-    - '#D86538'
+    - '#BFC4D1'
+    - '#102130'
+    - '#90909B'
+    - '#5C555C'
+    - '#531E21'
 typography_spectrum: 0.24137
