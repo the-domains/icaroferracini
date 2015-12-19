@@ -1,20 +1,8 @@
-title: Icaro Ferracini
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0
-favicon: null
 name: IcaroFerracini
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.24137
+title: Icaro Ferracini
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.05531915
-  rhythmicContrast: 0.2978723
   brandColors:
     - '#BFC4D1'
     - '#102130'
     - '#90909B'
     - '#5C555C'
     - '#531E21'
-typography_spectrum: 0.24137
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.05531915
+  rhythmicContrast: 0.2978723
+purpose: []
